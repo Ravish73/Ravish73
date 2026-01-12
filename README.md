@@ -22,14 +22,7 @@ Follow the green code.
 ## 👾 TERMINAL LOGS
 
 
-<img src="https://readme-typing-svg.herokuapp.com?
-font=JetBrains+Mono&size=26&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&width=850&lines=[00:00:01]initializing matrix core...;[00:00:02]+decrypting+identity ██████▒▒▒▒▒▒▒▒;
-[00:00:03] loading neural interface...;
-[00:00:04] bypassing firewalls... OK;
-[00:00:05] user detected : RAVISH;
-[00:00:06] role assigned : JAVA_DEVELOPER;
-[00:00:07] access level : OPEN_SOURCE;
-[00:00:08] entering the matrix..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=900&pause=200&color=00FF00&center=false&vCenter=true&width=1000&lines=%5B00:00:01%5D+initializing+matrix+core...;%5B00:00:02%5D+decrypting+identity+██████▒▒▒▒▒▒▒▒;%5B00:00:03%5D+loading+neural+interface...;%5B00:00:04%5D+bypassing+firewalls...+OK;%5B00:00:05%5D+user+detected+:+RAVISH;%5B00:00:06%5D+role+assigned+:+JAVA_DEVELOPER;%5B00:00:07%5D+access+level+:+OPEN_SOURCE;%5B00:00:08%5D+entering+the+matrix..." />
 
 
 ---
