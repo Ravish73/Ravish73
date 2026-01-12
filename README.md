@@ -26,21 +26,10 @@ Follow the green code.
 
 ## 📊 SYSTEM ANALYTICS
 
-## 📊 SYSTEM ANALYTICS
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravish73&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ravish73&show_icons=true&theme=chartreuse-dark&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Ravish73&theme=chartreuse-dark&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ravish73&theme=chartreuse-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 ---
 
