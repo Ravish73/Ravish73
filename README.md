@@ -6,7 +6,6 @@ Follow the green code.
 
 ---
 
-## 🟢 GLITCHED TYPING INTERFACE
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&width=800&lines=W4k3+Up+N30...;Th3+M4tr1x+H4s+Y0u;>>+BOOTING+SYSTEM...;>>+ACCESS+GRANTED;USER:+RAVISH;ROLE:+JAVA+DEVELOPER;FOLLOW+THE+GREEN+CODE" />
 
