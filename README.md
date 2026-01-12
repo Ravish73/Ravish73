@@ -9,9 +9,8 @@
 
 # 🟢 WELCOME TO THE MATRIX 🟢
 
-Wake up, Neo…  
-The Matrix has you.  
-Follow the green code.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1400&pause=400&color=FF0033&center=true&vCenter=true&width=700&lines=Wake+up,+Neo...;The+Matrix+has+you.;Follow+the+green+code." />
+
 
 ---
 
