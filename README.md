@@ -1,62 +1,116 @@
+<h1 align="center">Hi 👋, I'm Ravish</h1>
+<h3 align="center">🚀 Passionate Developer | Java | Spring Boot | Full Stack Enthusiast</h3>
 
+---
 
-```
+## 👨‍💻 About Me
+- 🎓 Computer Engineering Student  
+- 💼 Civil Engineer @ L&T Construction  
+- 💡 Passionate about building scalable backend systems  
+- 🌱 Currently learning **Spring Boot, React & System Design**  
+- ⚡ Fun fact: I turn ideas into real-world projects  
 
-███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
-████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ 
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ 
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+- Java
+- C++
+- JavaScript
+
+### 🌐 Web Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### ⚙️ Backend
+- Spring Boot
+- Servlet & JSP
+- REST APIs
+
+### 🗄️ Database
+- MySQL
+- Hibernate / JPA
+
+### 🛠️ Tools
+- Git & GitHub
+- IntelliJ IDEA
+- Postman
+- VS Code
+
+---
+
+## 📌 Projects
+
+### 🛒 E-Commerce Platform (Spring Boot) 🔥
+- Developed a complete **backend system using Spring Boot**
+- Implemented **JWT Authentication & Role-Based Authorization**
+- Designed modules for:
+  - 🧑‍💼 User Management  
+  - 🛍️ Product Catalog  
+  - 🛒 Cart Management  
+  - 📦 Order Processing  
+- Integrated **RESTful APIs** for frontend communication  
+- Used **Hibernate & JPA** for database handling  
+- Followed clean architecture & scalable design
+
+  ### 🔐 Authentication System Web App
+- Built using **Servlet, JSP, JDBC & Hibernate**
+- Features:
+  - 📝 User Registration  
+  - 🔑 Login Authentication  
+  - 🔒 Secure session handling  
+- Implemented:
+  - MVC architecture  
+  - Database connectivity using JDBC  
+  - ORM with Hibernate
+ 
+    ### 🎓 Student Management System (Core Java)
+- Developed using **Core Java (OOP concepts)**
+- Features:
+  - ➕ Add / Update / Delete student records  
+  - 🔍 Search and display student data  
+- Applied concepts:
+  - Encapsulation  
+  - Inheritance  
+  - Collections Framework  
+- Focused on **clean logic and modular design**  
+
+### 🌍 Travel Booking System
+- Package booking (Matheran, Mahabaleshwar)
+- JSP & Servlet based dynamic system
+
+### 🎮 Rock Paper Scissors Game
+- Interactive frontend project
+- Clean UI & game logic
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravish73&show_icons=true&theme=tokyonight" />
 </p>
-<h1 align="center">WELCOME TO THE MATRIX</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=400&color=FF0033&center=true&vCenter=true&width=700&lines=Wake+up,+Neo...;The+Matrix+has+you.;Follow+the+green+code." />
-
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&width=850&lines=W4k3+Up+N30...;Th3+M4tr1x+H4s+Y0u;>>+BOOTING+SYSTEM...;>>+ACCESS+GRANTED;USER:+RAVISH;ROLE:+JAVA+DEVELOPER;FOLLOW+THE+GREEN+CODE" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravish73&theme=tokyonight" />
+</p>
 
 ---
 
-## 👾 TERMINAL LOGS
+## 📫 Connect With Me
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=900&pause=200&color=00FF00&center=false&vCenter=true&width=1000&lines=%5B00:00:01%5D+initializing+matrix+core...;%5B00:00:02%5D+decrypting+identity+██████▒▒▒▒▒▒▒▒;%5B00:00:03%5D+loading+neural+interface...;%5B00:00:04%5D+bypassing+firewalls...+OK;%5B00:00:05%5D+user+detected+:+RAVISH;%5B00:00:06%5D+role+assigned+:+JAVA_DEVELOPER;%5B00:00:07%5D+access+level+:+OPEN_SOURCE;%5B00:00:08%5D+entering+the+matrix..." />
-
-
----
-
-## 🧠 SYSTEM BOOT
-
-> booting system...  
-> loading github profile...  
-> authentication successful ✅  
-
-**USER:** RAVISH  
-**ROLE:** JAVA DEVELOPER  
-**STATUS:** OPEN SOURCE CONTRIBUTOR  
-**LOCATION:** INDIA  
+- 📧 Email: Ravirajkumbhar961@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/raviraaj-raje-30b38a268
+-  
 
 ---
 
-## 📊 SYSTEM ANALYTICS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravish73&show_icons=true&theme=chartreuse-dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ravish73&theme=chartreuse-dark&hide_border=true)
+## 💡 Quote I Believe In
+> "Code. Learn. Build. Repeat."
 
 ---
 
-## 🛠️ SKILL MATRIX
-
-- Java  
-- HTML, CSS, JavaScript  
-- Git, GitHub, MySQL  
-- Spring (Learning)  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff00,100:003300&height=90&section=footer&text=FOLLOW+THE+GREEN+CODE&fontColor=00ff00" />
+⭐ *Feel free to check out my repositories and give a star if you like them!*
