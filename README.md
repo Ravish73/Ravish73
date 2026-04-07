@@ -55,6 +55,8 @@
 - Used **Hibernate & JPA** for database handling  
 - Followed clean architecture & scalable design
 
+  ------------------------------------------------------------
+
   ### 🔐 Authentication System Web App
 - Built using **Servlet, JSP, JDBC & Hibernate**
 - Features:
@@ -65,7 +67,7 @@
   - MVC architecture  
   - Database connectivity using JDBC  
   - ORM with Hibernate
- 
+ ----------------------------------------------------------------
     ### 🎓 Student Management System (Core Java)
 - Developed using **Core Java (OOP concepts)**
 - Features:
@@ -76,6 +78,7 @@
   - Inheritance  
   - Collections Framework  
 - Focused on **clean logic and modular design**  
+------------------------------------------------------------------
 
 ### 🌍 Travel Booking System
 - Package booking (Matheran, Mahabaleshwar)
