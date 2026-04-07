@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ravish</h1>
+<h1 align="center">Hi 👋, I'm Raviraaj</h1>
 <h3 align="center">🚀 Passionate Developer | Java | Spring Boot | Full Stack Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering Student  
-- 💼 Civil Engineer @ L&T Construction  
 - 💡 Passionate about building scalable backend systems  
-- 🌱 Currently learning **Spring Boot, React & System Design**  
+- 🌱 Currently learning **Spring Boot Security (JWT Autherization & Authintication) , React & System Design**  
 - ⚡ Fun fact: I turn ideas into real-world projects  
 
 ---
