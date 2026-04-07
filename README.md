@@ -68,7 +68,7 @@
   - Database connectivity using JDBC  
   - ORM with Hibernate
  ----------------------------------------------------------------
-    ### 🎓 Student Management System (Core Java)
+   ### 🎓 Student Management System (Core Java)
 - Developed using **Core Java (OOP concepts)**
 - Features:
   - ➕ Add / Update / Delete student records  
