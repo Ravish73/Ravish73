@@ -7,7 +7,6 @@
 - 🎓 Computer Engineering Student  
 - 💡 Passionate about building scalable backend systems  
 - 🌱 Currently learning **Spring Boot Security (JWT Autherization & Authintication) , React & System Design**  
-- ⚡ Fun fact: I turn ideas into real-world projects  
 
 ---
 
