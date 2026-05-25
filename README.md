@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raviraaj</h1>
-<h3 align="center">🚀 Passionate Developer | Java | Spring Boot | Full Stack Enthusiast</h3>
+<h3 align="center">🚀 Passionate Developer | Java | Spring Boot | JavaScript| React js| Full Stack Enthusiast</h3>
 
 ---
 
