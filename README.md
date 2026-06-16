@@ -72,6 +72,28 @@
 ---
 
 ## 🚀 Featured Projects
+### 📚 Library Management System (Live Project)
+
+**Tech Stack:** React.js, JavaScript, HTML, CSS, Vercel
+
+🔗 Live Demo: https://book-management-system-iota-two.vercel.app/
+
+#### Features
+
+* 📖 Add, Update, and Delete Books
+* 🔍 Search and Filter Books
+* 📚 Book Inventory Management
+* ⚡ Dynamic UI with React Components
+* 🎨 Responsive and User-Friendly Interface
+* ☁️ Deployed on Vercel
+
+#### Highlights
+
+* Built using React's component-based architecture
+* Implemented state management for real-time updates
+* Designed responsive UI for seamless user experience
+* Successfully deployed and hosted on Vercel
+
 
 ### 🛒 Full Stack E-Commerce Platform
 
