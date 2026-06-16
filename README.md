@@ -93,6 +93,19 @@
 * Designed responsive UI for seamless user experience
 * Successfully deployed and hosted on Vercel
 
+
+### 🎮 Rock Paper Scissors Game (Live)
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 Live Demo: https://ravish73.github.io/Rock-Paper-Scissor/
+
+* Interactive Rock-Paper-Scissors gameplay
+* Real-time score tracking and result updates
+* Implemented using JavaScript DOM manipulation
+* Responsive UI design
+* Deployed using GitHub Pages
+  
 ---
 
 ### 🛒 Full Stack E-Commerce Platform
@@ -166,16 +179,6 @@
 * Database-Driven Application
 
 ---
-
-### 🎮 Rock Paper Scissors Game
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-* Interactive User Interface
-* Randomized Computer Moves
-* Real-Time Score Tracking
-* Responsive Design
-
 
 ## 📚 Certifications
 
