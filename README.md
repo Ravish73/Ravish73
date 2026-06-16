@@ -1,117 +1,195 @@
-<h1 align="center">Hi 👋, I'm Raviraaj</h1>
-<h3 align="center">🚀 Passionate Developer | Java | Spring Boot | JavaScript| React js| Full Stack Enthusiast</h3>
+# Hi 👋, I'm Raviraj Raje
 
----
+### 🚀 Java Full Stack Developer | Spring Boot | Microservices | React.js
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering Student  
-- 💡 Passionate about building scalable backend systems  
-- 🌱 Currently learning **Spring Boot Security (JWT Autherization & Authintication) , React & System Design**  
+
+* 🎓 B.Tech in Computer Engineering
+* 💻 Passionate about Java Full Stack Development
+* 🚀 Skilled in Spring Boot, Microservices, REST APIs, React.js, Hibernate & MySQL
+* 🔐 Experienced in JWT Authentication & Role-Based Access Control
+* 🌱 Currently learning System Design, Spring Security & Cloud Technologies
+* 🎯 Interested in building scalable and secure enterprise applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
-- Java
-- C++
-- JavaScript
+### 💻 Languages
 
-### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
+* Java
+* JavaScript
+* SQL
+
+### 🌐 Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Thymeleaf
 
 ### ⚙️ Backend
-- Spring Boot
-- Servlet & JSP
-- REST APIs
 
-### 🗄️ Database
-- MySQL
-- Hibernate / JPA
+* Spring Boot
+* Spring MVC
+* Spring Core
+* Servlets
+* JSP
+* REST APIs
+* JDBC
 
-### 🛠️ Tools
-- Git & GitHub
-- IntelliJ IDEA
-- Postman
-- VS Code
+### ☁️ Microservices & Cloud
+
+* Spring Cloud
+* Eureka Client
+* Service Discovery
+* Microservices Architecture
+
+### 🗄️ Databases
+
+* MySQL
+* Oracle
+* MongoDB
+* H2 Database
+
+### 🔒 Security
+
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+
+### 🛠️ Tools & Platforms
+
+* Git & GitHub
+* IntelliJ IDEA
+* Eclipse
+* STS
+* VS Code
+* Postman
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform (Spring Boot) 🔥
-- Developed a complete **backend system using Spring Boot**
-- Implemented **JWT Authentication & Role-Based Authorization**
-- Designed modules for:
-  - 🧑‍💼 User Management  
-  - 🛍️ Product Catalog  
-  - 🛒 Cart Management  
-  - 📦 Order Processing  
-- Integrated **RESTful APIs** for frontend communication  
-- Used **Hibernate & JPA** for database handling  
-- Followed clean architecture & scalable design
+### 🛒 Full Stack E-Commerce Platform
 
-  ------------------------------------------------------------
+**Tech Stack:** Spring Boot, React.js, MySQL, Spring Data JPA, REST APIs
 
-  ### 🔐 Authentication System Web App
-- Built using **Servlet, JSP, JDBC & Hibernate**
-- Features:
-  - 📝 User Registration  
-  - 🔑 Login Authentication  
-  - 🔒 Secure session handling  
-- Implemented:
-  - MVC architecture  
-  - Database connectivity using JDBC  
-  - ORM with Hibernate
- ----------------------------------------------------------------
-   ### 🎓 Student Management System (Core Java)
-- Developed using **Core Java (OOP concepts)**
-- Features:
-  - ➕ Add / Update / Delete student records  
-  - 🔍 Search and display student data  
-- Applied concepts:
-  - Encapsulation  
-  - Inheritance  
-  - Collections Framework  
-- Focused on **clean logic and modular design**  
-------------------------------------------------------------------
+#### Features
+
+* User Management
+* Product Management
+* RESTful APIs
+* MySQL Integration
+* Exception Handling
+* CORS Configuration
+* MVC Architecture
+
+---
+
+### 🏥 Smart Healthcare Booking System
+
+**Tech Stack:** Spring Boot, Spring Cloud, Microservices, Thymeleaf, MySQL
+
+#### Features
+
+* Doctor & Patient Services
+* Service Discovery using Eureka
+* Doctor Search by Specialization
+* CRUD Operations
+* REST API Communication
+* Dynamic UI using Thymeleaf
+* Microservices Architecture
+
+---
+
+### 🎓 Student Management System
+
+**Tech Stack:** Core Java, Collections Framework, OOP
+
+#### Features
+
+* Add Student
+* Update Student
+* Delete Student
+* Search Student
+* Collections Framework
+* Encapsulation & OOP Concepts
+
+---
+
+## 📂 Other Projects
+
+### 🔐 Authentication System Web App
+
+**Tech Stack:** Servlet, JSP, JDBC, Hibernate, MySQL
+
+* User Registration & Login System
+* Session Management
+* JDBC Database Connectivity
+* Hibernate ORM Integration
+* MVC Architecture
+
+---
 
 ### 🌍 Travel Booking System
-- Package booking (Matheran, Mahabaleshwar)
-- JSP & Servlet based dynamic system
 
-### 🎮 Rock Paper Scissors Game
-- Interactive frontend project
-- Clean UI & game logic
+**Tech Stack:** JSP, Servlet, MySQL
+
+* Dynamic Tour Package Booking System
+* Package Management for Tourist Destinations
+* User-Friendly Booking Interface
+* Database-Driven Application
 
 ---
 
-## 📊 GitHub Stats
+### 🎮 Rock Paper Scissors Game
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+* Interactive User Interface
+* Randomized Computer Moves
+* Real-Time Score Tracking
+* Responsive Design
+
+
+## 📚 Certifications
+
+* Java Full Stack Development
+* Manual Software Testing (Basics) – Simplilearn
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravish73&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravish73&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravish73&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravish73&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravish73&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: Ravirajkumbhar961@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/raviraaj-raje-30b38a268
--  
+📧 Email: **[Ravirajraje272@gmail.com](mailto:Ravirajraje272@gmail.com)**
+
+💼 LinkedIn: **[www.linkedin.com/in/raviraaj-raje-30b38a268](http://www.linkedin.com/in/raviraaj-raje-30b38a268)**
+
+🐙 GitHub: **github.com/Ravish73**
 
 ---
 
-## 💡 Quote I Believe In
-> "Code. Learn. Build. Repeat."
+## 💡 Quote
 
----
+> "First, solve the problem. Then, write the code."
 
-⭐ *Feel free to check out my repositories and give a star if you like them!*
+⭐ If you like my projects, don't forget to star them!
