@@ -22,6 +22,7 @@
 * Java
 * JavaScript
 * SQL
+* C++
 
 ### 🌐 Frontend
 
